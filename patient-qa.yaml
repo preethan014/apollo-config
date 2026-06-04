@@ -6,7 +6,7 @@ patient:
   message: "Welcome to Appolo hospitals patient qa consultancy"
   contactDetails:
     name: "patient qa"
-    email: "{cipher}pcbeeb31fe15f73f735f675aec89d32cb00090be10fc0ed9637ceb4200fde2702acb3a8b049d54934c7431f95a02a6127"
+    email: "{cipher}cbeeb31fe15f73f735f675aec89d32cb00090be10fc0ed9637ceb4200fde2702acb3a8b049d54934c7431f95a02a6127"
   onCallSupport:
     - (222)999-999
     - (222)233-432
