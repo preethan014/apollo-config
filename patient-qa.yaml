@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-doctor:
+patient:
   message: "Welcome to Appolo hospitals patient qa consultancy"
   contactDetails:
     name: "patient qa"
