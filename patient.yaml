@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+doctor:
+  message: "Welcome to Appolo hospitals patient consultancy"
+  contactDetails:
+    name: "patient"
+    email: "patient@appolo.com"
+  onCallSupport:
+    - (111)999-999
+    - (111)233-432

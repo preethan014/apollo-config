@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+appointment:
+  message: "from appointment qa"
+  contactDetails:
+    name: "qa"
+    email: "qa@gmail.com"
+  mobileNumbers:
+    - (222)123-123
+    - (333)234-234

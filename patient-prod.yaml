@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+doctor:
+  message: "Welcome to Appolo hospitals patient  prod consultancy"
+  contactDetails:
+    name: "patient prod"
+    email: "patientprod@appolo.com"
+  onCallSupport:
+    - (333)999-999
+    - (333)233-432

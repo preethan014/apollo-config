@@ -1,0 +1,13 @@
+
+build:
+  version: "3.5"
+environment:
+  version: "4.5"
+payment:
+  message: "prod payment message"
+  contactDetails:
+    name: "prod"
+    email: "prod@gmail.com"
+  mobileNumbers:
+    - (222)123-123
+    - (222)222-222

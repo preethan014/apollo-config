@@ -1,0 +1,21 @@
+
+build:
+  version: "1.0"
+
+doctor:
+  message: "Welcome to Appolo hospitals doctor consultancy"
+  contactDetails:
+    name: "preethan"
+    email: "preethan@appolo.com"
+  onCallSupport:
+    - (999)999-999
+    - (234)233-432
+
+doctora:
+  messagea: "Welcome to Appolo hospitals doctor consultancy"
+  contactDetailsa:
+    namea: "preethan"
+    emaila: "preethan@appolo.com"
+  onCallSupporta:
+    - (999)999-999
+    - (234)233-432

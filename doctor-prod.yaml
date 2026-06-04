@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+doctor:
+  message: "Welcome to Appolo hospitals  doctors from Prod environment"
+  contactDetails:
+    name: "doctor prod"
+    email: "doctorprod@appolo.com"
+  onCallSupport:
+    - (777)999-999
+    - (777)233-432

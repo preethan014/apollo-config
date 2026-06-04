@@ -1,0 +1,14 @@
+
+
+build:
+  version: "2.5"
+environment:
+  version: "1.5"
+payment:
+  message: "default payment message"
+  contactDetails:
+    name: "default"
+    email: "default@gmail.com"
+  mobileNumbers:
+    - (111)123-123
+    - (222)222-222

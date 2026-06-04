@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+appointment:
+  message: "from appointment prod"
+  contactDetails:
+    name: "prod"
+    email: "prod@gmail.com"
+  mobileNumbers:
+    - (444)123-123
+    - (555)234-234

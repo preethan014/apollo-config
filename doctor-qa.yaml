@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+doctor:
+  message: "Welcome to Appolo hospitals  doctors from QA environment"
+  contactDetails:
+    name: "doctor qa"
+    email: "doctorqa@appolo.com"
+  onCallSupport:
+    - (666)999-999
+    - (222)233-432
