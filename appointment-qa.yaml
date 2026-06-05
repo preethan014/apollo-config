@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 appointment:
-  message: "from appointment qa"
+  message: "from appointment quality analysis"
   contactDetails:
     name: "qa"
     email: "qa@gmail.com"
