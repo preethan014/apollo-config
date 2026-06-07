@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 doctor:
-  message: "Welcome to Appolo hospitals doctor default consultancy"
+  message: "Welcome to Appolo hospitals doctor docker default consultancy"
   contactDetails:
     name: "preethand"
     email: "preethand@appolo.com"
