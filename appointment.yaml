@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 appointment:
-  message: "from appointment default"
+  message: "from appointment docker default"
   contactDetails:
     name: "default"
     email: "default@gmail.com"
