@@ -6,7 +6,7 @@ build:
 doctor:
   message: "Welcome to Appolo hospitals  doctors from Production environment"
   contactDetails:
-    name: "doctor prod"
+    name: "doctor production"
     email: "doctorprod@appolo.com"
   onCallSupport:
     - (777)999-999
