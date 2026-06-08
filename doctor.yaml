@@ -5,7 +5,7 @@ build:
 doctor:
   message: "Welcome to Appolo hospitals doctor docker default consultancy"
   contactDetails:
-    name: "preethandefault"
+    name: "preethand"
     email: "preethand@appolo.com"
   onCallSupport:
     - (999)999-999
