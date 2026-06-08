@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 doctor:
-  message: "Welcome to Appolo hospitals  doctors from Production environment"
+  message: "Welcome to Appolo hospitals  doctors from docker Production environment"
   contactDetails:
     name: "doctor production"
     email: "doctorprod@appolo.com"
