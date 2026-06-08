@@ -4,7 +4,7 @@ build:
 environment:
   version: "4.5"
 payment:
-  message: "prod payment message"
+  message: "production payment message"
   contactDetails:
     name: "prod"
     email: "prod@gmail.com"
