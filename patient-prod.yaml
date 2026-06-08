@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 patient:
-  message: "Welcome to Appolo hospitals patient  prod consultancy"
+  message: "Welcome to Appolo hospitals patient docker prod consultancy"
   contactDetails:
     name: "patient prod"
     email: "patientprod@appolo.com"
